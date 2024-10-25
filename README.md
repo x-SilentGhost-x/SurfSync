@@ -1,2 +1,2 @@
 # SurfSync
-Surf forecasting app. Analyze present and future swell information
+This is an application that will allow you to see current swell conditions in specific regions
